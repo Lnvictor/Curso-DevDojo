@@ -1,0 +1,2 @@
+[ID: -1582994071] - Chamada de metodo: Delegator
+[ID: -1582994071] - Chamada de metodo: alinharPneus
